@@ -49,9 +49,7 @@ main {
     border-radius: 10%;
     max-height: 200px;
     margin: 10px;
-}
-#projects{
-    f   
+
 }
 
 /* Style the header with a grey background and some padding */
@@ -103,5 +101,8 @@ main {
     }
     .header-right {
         float: none;
+    }
+    #about-text{
+        min-width: 56vh;
     }
 }
