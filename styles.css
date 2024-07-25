@@ -54,7 +54,7 @@ h1 {
 .dp {
   height: 40px;
   border-radius: 50%;
-  border: 5px solid white;
+  border: 2px solid white;
 }
 
 #dp-text:hover {
