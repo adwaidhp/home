@@ -1,5 +1,5 @@
 body {
-  font-family: "League Spartan", sans-serif;
+  font-family: "League Spartan",   sans-serif;/* sans-serif;*/
   font-size: x-large;
   margin: 0px;
   color: #fff;
@@ -12,7 +12,7 @@ main {
   justify-content: center;
   align-items: center;
   margin: 20px auto;
-  max-width: 1000px; /* Adjust max-width as needed */
+  max-width: 1000px; 
   padding:20px;
 }
 
@@ -153,6 +153,7 @@ footer {
   top:0;
   backdrop-filter: blur(10px);
   
+  
 }
 
 /* Style the header links */
@@ -171,8 +172,12 @@ footer {
 
 .header a:hover {
   /*background-color: #ddd;*/
-  color: rgb(85, 132, 236);;
+  color: rgb(255, 114, 234);/* rgb(85, 132, 236);;*/
   text-decoration: underline;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .header a.active {
