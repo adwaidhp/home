@@ -209,7 +209,7 @@ footer {
     padding: 0px;
   }
   .header-right {
-    display:inline;
+    display:none;
   }
   
   #headpic{
@@ -223,8 +223,5 @@ footer {
     margin-top:50px;
     margin-bottom: 100px;
   }
-  #dp-text:hover {
-  text-decoration: none;
-    display:none !important;
-  }
+  
 }
