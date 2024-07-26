@@ -225,6 +225,6 @@ footer {
   }
   #dp-text:hover {
   text-decoration: none;
-    display:none;
+    display:none !important;
   }
 }
