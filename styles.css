@@ -204,7 +204,8 @@ footer {
     border-radius: 10px;
     position: relative;
     margin-right: 10px;
-    width:97.5%
+    width:97.5%;
+    top:0px;
   }
   .header a  {
     float: none;
