@@ -62,7 +62,7 @@ h1 {
 
 #headpic {
   float: right;
-  border-radius: 15%;
+  border-radius: 50%;
   border: 5px solid whitesmoke;
   max-height: 200px;
   margin: 10px;
