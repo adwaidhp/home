@@ -62,7 +62,7 @@ h1 {
 
 #headpic {
   float: right;
-  border-radius: 50%;
+  border-radius: 10%;
   border: 5px solid whitesmoke;
   max-height: 200px;
   margin: 10px;
@@ -136,10 +136,6 @@ footer {
 }
 
 
-
-/* NAV-BAR*/
-
-/* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
   background-color: #fffdfd00;
